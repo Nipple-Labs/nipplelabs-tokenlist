@@ -283,6 +283,14 @@
       "logoURI": "https://exchange.nipplelabs.finance/images/coins/nips.png"
     },
     {
+      "name": "SunFinance",
+      "symbol": "SUN",
+      "address": "0x60e91f89A2986975822De3BfE50df002Ef46EaAD",
+      "chainId": 250,
+      "decimals": 9,
+      "logoURI": "https://exchange.nipplelabs.finance/images/coins/sunfinancelogo.png"
+    },
+    {
       "name": "Yorocoon",
       "symbol": "YORO",
       "address": "0xcf7e516e2dd67c3b0bd52266da41f403a0f19a07",
