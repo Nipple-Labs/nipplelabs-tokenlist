@@ -13,7 +13,7 @@
     {
       "name": "Boob",
       "symbol": "BOOB",
-      "address": "0x76E0C9e6f98b27F11fF3735388F982AEd1de72C9",
+      "address": "0x76e0c9e6f98b27f11ff3735388f982aed1de72c9",
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://exchange.nipplelabs.finance/images/coins/boob.png"
@@ -21,7 +21,7 @@
     {
       "name": "MilkMoney",
       "symbol": "MILK$",
-      "address": "0xBC248EBF7F12701e47167B835708f09A23B41aFC",
+      "address": "0xbc248ebf7f12701e47167b835708f09a23b41afc",
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://exchange.nipplelabs.finance/images/coins/milk$.png"
@@ -53,7 +53,7 @@
     {
       "name": "Binance",
       "symbol": "BNB",
-      "address": "0xD67de0e0a0Fd7b15dC8348Bb9BE742F3c5850454",
+      "address": "0xd67de0e0a0fd7b15dc8348bb9be742f3c5850454",
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://exchange.nipplelabs.finance/images/coins/bnb.png"
@@ -61,7 +61,7 @@
     {
       "name": "USDC Coin",
       "symbol": "USDC",
-      "address": "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75",
+      "address": "0x04068da6c83afcfa0e13ba15a6696662335d5b75",
       "chainId": 250,
       "decimals": 6,
       "logoURI": "https://exchange.nipplelabs.finance/images/coins/usdc.png"
@@ -69,7 +69,7 @@
     {
       "name": "Cream",
       "symbol": "CREAM",
-      "address": "0x657A1861c15A3deD9AF0B6799a195a249ebdCbc6",
+      "address": "0x657a1861c15a3ded9af0b6799a195a249ebdcbc6",
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://exchange.nipplelabs.finance/images/coins/cream.png"
@@ -125,7 +125,7 @@
     {
       "name": "ChainLink",
       "symbol": "LINK",
-      "address": "0xb3654dc3D10Ea7645f8319668E8F54d2574FBdC8",
+      "address": "0xb3654dc3d10ea7645f8319668e8f54d2574fbdc8",
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://exchange.nipplelabs.finance/images/coins/link.png"
@@ -285,11 +285,11 @@
     {
       "name": "SunFinance",
       "symbol": "SUN",
-      "address": "0x60e91f89A2986975822De3BfE50df002Ef46EaAD",
+      "address": "0x60e91f89a2986975822de3bfe50df002ef46eaad",
       "chainId": 250,
       "decimals": 9,
       "logoURI": "https://exchange.nipplelabs.finance/images/coins/sunfinancelogo.png"
-    },
+    },    
     {
       "name": "Yorocoon",
       "symbol": "YORO",
