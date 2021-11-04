@@ -297,6 +297,14 @@
       "chainId": 250,
       "decimals": 9,
       "logoURI": "https://exchange.nipplelabs.finance/images/coins/yoro.png"
+    },
+    {
+      "name": "Spell Token",
+      "symbol": "SPELL",
+      "address": "0x468003b688943977e6130f4f68f23aad939a1040",
+      "chainId": 250,
+      "decimals": 9,
+      "logoURI": "https://exchange.nipplelabs.finance/images/coins/spell.png"
     }
   ]
 }
